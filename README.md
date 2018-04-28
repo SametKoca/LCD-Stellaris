@@ -32,6 +32,6 @@ After 2 second , scroll left to write 'first and last name' on the bottom line.
 
 **Schema**
 
-This schema is designed for tivac card but this same schema is also used for stelarris card
+This schema is designed for TivaC card but this schema is also used for Stelarris card
 
 ![Schema](https://github.com/SametKoca/LCD-Stellaris/blob/master/images/Schema.png)

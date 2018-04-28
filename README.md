@@ -32,4 +32,4 @@ After 2 second , scroll left to write 'first and last name' on the bottom line.
 
 **Schema**
 
-![Schema](https://github.com/SametKoca/LCD-Stellaris/blob/master/images/schema.png)
+![Schema](https://github.com/SametKoca/LCD-Stellaris/blob/master/images/Schema.png)
